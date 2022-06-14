@@ -1,0 +1,20 @@
+{
+  "name": "random-motivational-messages-for-developers",
+  "version": "1.0.0",
+  "description": "In this project motivational messages are loaded randomly for developers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "NODE",
+    "NPM"
+  ],
+  "author": "Kevin Luciano",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
