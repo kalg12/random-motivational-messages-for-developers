@@ -14,7 +14,15 @@
   "author": "Kevin Luciano",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalg12/random-motivational-messages-for-developers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kalg12/random-motivational-messages-for-developers/issues"
+  },
+  "homepage": "https://github.com/kalg12/random-motivational-messages-for-developers#readme"
 }
